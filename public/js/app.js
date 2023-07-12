@@ -14,4 +14,4 @@ weatherForm.addEventListener('submit', (e) => {
             message.textContent = data.data
         })
     })
-})
+}) 
